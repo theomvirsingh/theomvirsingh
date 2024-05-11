@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theomvirsingh
 - 👀 I’m interested in Finding Problems and then solving them
-- 🌱 I’m currently learning DSA in C++ & Full Stack Development (MERN)
-- 💞️ I’m looking to collaborate on MERN Projects
+- 🌱 I’m currently learning DSA in C++ & Front-End Web Development
+- 💞️ I’m looking to collaborate on ReactJS Projects
 - 📫 How to reach me omvirsingh9602@gmail.com
 
 <!---
